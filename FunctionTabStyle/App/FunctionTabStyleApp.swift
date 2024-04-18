@@ -11,7 +11,7 @@ import SwiftUI
 struct FunctionTabStyleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AddNumberView()
         }
     }
 }
